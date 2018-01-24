@@ -1,6 +1,6 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
-* Студент: [Margarita Kozyreva](https://up.htmlacademy.ru/javascript/12/user/460679).
+* Студент : [Margarita Kozyreva](https://up.htmlacademy.ru/javascript/12/user/460679).
 
 ---
 
