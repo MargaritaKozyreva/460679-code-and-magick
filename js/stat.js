@@ -53,7 +53,7 @@ window.renderStatistics = function (ctx, names, times) {
 
     var histPersLength = ((times[i] * MAX_PERCENT) / maxResult);
     var color;
-    color = "rgba(0, 0, 255," + Math.random() + ")";
+    color = 'rgba(0, 0, 255,' + Math.random() + ')';
     if (names[i] === 'Вы') {
       color = 'rgba(255, 0, 0, 1)';
       if (times[i] === maxResult) {
